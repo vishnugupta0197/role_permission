@@ -1,6 +1,6 @@
 To Run the application:
 
-1. Please checkout code using following github repository- 
+1. Please checkout code using following github repository- https://github.com/vishnugupta0197/role_permission.git
 
 2. Run the command npm install --save
 
